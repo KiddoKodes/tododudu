@@ -2,7 +2,7 @@
 A Small To do list app built in react + Firebase + TypeScript
 
 Hosted Here-https://tododududu.web.app
-            https://tododudu.firebaseapp.com
+            https://tododududu.firebaseapp.com
             https://tododudu.ga
 
 # Getting Started with Create React App
