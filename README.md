@@ -1,8 +1,8 @@
 # THIS IS `TODODUDUDU...`
 A Small To do list app built in react + Firebase + TypeScript
 
-Hosted Here-https://tododudu.web.app
-            https://tododudu.firebase.app
+Hosted Here-https://tododududu.web.app
+            https://tododudu.firebaseapp.com
             https://tododudu.ga
 
 # Getting Started with Create React App
